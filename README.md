@@ -9,7 +9,7 @@ A compiled version of this application can be found in */setup* folder.
 
 To rebuild the application from source code, please refer to */src* folder.
 
-For the web based version please check PowerTests.NET
+For the web based version please check [PowerTests.NET](http://github.com/mveteanu/PowerTests.NET)
 
 Note: The application was originally built for usage in Romania.
 
