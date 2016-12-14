@@ -7,7 +7,7 @@ PowerTests is a desktop application for implementing online assessments in educa
 
 A compiled version of this application can be found in */setup* folder.
 
-To rebuild the application from source code, please refer to */src* folder.
+To rebuild the application from the Borland Delphi source code, please refer to */src* folder.
 
 For the web based version please check [PowerTests.NET](http://github.com/mveteanu/PowerTests.NET)
 
