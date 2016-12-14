@@ -1,0 +1,20 @@
+
+
+     Am folosit urmatoarele componente externe:
+
+     - ColorBtn
+     - RichEdit 98
+     - RxLib 2.60
+     - Tb97
+     - TipDlg
+     - WordCap
+
+     La Control Center am folosit si:
+
+     - LMD
+     - Orpheus 3
+     - SysTools
+     - HTML components
+
+     Help-ul programului l-am creat cu: Help&Manual 2.0
+
